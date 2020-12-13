@@ -1,0 +1,10 @@
+C:\Users\DOGRUEL\Desktop\Karışık\Hisar\Hisar_local_transfer_alıcı\hisar_alıcı\hisar_alıcı\bin\Debug\hisar_alıcı.exe.config
+C:\Users\DOGRUEL\Desktop\Karışık\Hisar\Hisar_local_transfer_alıcı\hisar_alıcı\hisar_alıcı\bin\Debug\hisar_alıcı.exe
+C:\Users\DOGRUEL\Desktop\Karışık\Hisar\Hisar_local_transfer_alıcı\hisar_alıcı\hisar_alıcı\bin\Debug\hisar_alıcı.pdb
+C:\Users\DOGRUEL\Desktop\Karışık\Hisar\Hisar_local_transfer_alıcı\hisar_alıcı\hisar_alıcı\obj\Debug\hisar_alıcı.csprojAssemblyReference.cache
+C:\Users\DOGRUEL\Desktop\Karışık\Hisar\Hisar_local_transfer_alıcı\hisar_alıcı\hisar_alıcı\obj\Debug\hisar_alıcı.Form1.resources
+C:\Users\DOGRUEL\Desktop\Karışık\Hisar\Hisar_local_transfer_alıcı\hisar_alıcı\hisar_alıcı\obj\Debug\hisar_alıcı.Properties.Resources.resources
+C:\Users\DOGRUEL\Desktop\Karışık\Hisar\Hisar_local_transfer_alıcı\hisar_alıcı\hisar_alıcı\obj\Debug\hisar_alıcı.csproj.GenerateResource.cache
+C:\Users\DOGRUEL\Desktop\Karışık\Hisar\Hisar_local_transfer_alıcı\hisar_alıcı\hisar_alıcı\obj\Debug\hisar_alıcı.csproj.CoreCompileInputs.cache
+C:\Users\DOGRUEL\Desktop\Karışık\Hisar\Hisar_local_transfer_alıcı\hisar_alıcı\hisar_alıcı\obj\Debug\hisar_alıcı.exe
+C:\Users\DOGRUEL\Desktop\Karışık\Hisar\Hisar_local_transfer_alıcı\hisar_alıcı\hisar_alıcı\obj\Debug\hisar_alıcı.pdb
